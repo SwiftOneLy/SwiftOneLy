@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciências da Computação  
 🖥️ Técnico em Informática
-💡 Apaixonado por tecnologia, programação e inovação  
+ 💡 Apaixonado por tecnologia, programação e inovação  
 
 ---
 
