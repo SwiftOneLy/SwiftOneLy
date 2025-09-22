@@ -5,7 +5,7 @@
  💡 Apaixonado por tecnologia, programação e infraestrutura  
 
 
-<img width="700" height="512" alt="banner" src="https://github.com/user-attachments/assets/d1257bcf-391c-4fa2-9cbc-85bc1e2df5d1" />
+<img width="700" height="500" alt="banner" src="https://github.com/user-attachments/assets/e1740b8c-fe5c-4387-baaa-4321a0023b25" />
 
 
 ---
