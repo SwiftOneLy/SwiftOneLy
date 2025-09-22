@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="ChatGPT Image Sep 22, 2025, 07_27_40 PM" src="https://github.com/user-attachments/assets/688c34d4-e625-4300-80ef-4c4deb272a79" />
+
+
+
 # 👨‍💻 Olá, eu sou Felippe  
 
 🎓 Estudante de Ciências da Computação  
