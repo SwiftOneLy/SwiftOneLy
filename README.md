@@ -4,11 +4,9 @@
 
 # 👨‍💻 Olá, eu sou Felippe  
 
-🎓 Estudante de Ciências da Computação  
+🎓 Estudante de Ciências da Computação e tecnico em informatica
 
-🖥️ Técnico em Informática
-
- 💡 Apaixonado por tecnologia, programação e inovação  
+ 💡 Apaixonado por tecnologia, programação e infraestrutura  
 
 ---
 
