@@ -1,11 +1,12 @@
-<img width="1092" height="618" alt="banner" src="https://github.com/user-attachments/assets/d1257bcf-391c-4fa2-9cbc-85bc1e2df5d1" />
-
-
 # 👨‍💻 Olá, eu sou Felippe  
 
 🎓 Estudante de Ciências da Computação e tecnico em informatica
 
  💡 Apaixonado por tecnologia, programação e infraestrutura  
+
+
+<img width="700" height="512" alt="banner" src="https://github.com/user-attachments/assets/d1257bcf-391c-4fa2-9cbc-85bc1e2df5d1" />
+
 
 ---
 
