@@ -1,6 +1,4 @@
-<img width="700" height="512" alt="bannerp" src="https://github.com/user-attachments/assets/1315a70c-3dc5-4d2e-8401-43378676af50" />
-
-
+<img width="1092" height="618" alt="banner" src="https://github.com/user-attachments/assets/d1257bcf-391c-4fa2-9cbc-85bc1e2df5d1" />
 
 
 # 👨‍💻 Olá, eu sou Felippe  
